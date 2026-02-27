@@ -1,0 +1,17 @@
+{
+  "name": "AI Web Engineering Course",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "MS-CEINTL.vscode-language-pack-ja",
+        "Codeium.codeium"
+      ],
+      "settings": {
+        "workbench.startupEditor": "readme"
+      }
+    }
+  },
+  "forwardPorts": [3000],
+  "postCreateCommand": "npm install"
+}
