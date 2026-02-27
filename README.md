@@ -5,7 +5,10 @@ GitHub Codespacesを起動するだけで、日本語化された開発環境と
 
 ## 使い方（受講生向け）
 
-1. このリポジトリのGitHubページを開く
+受講開始前に、このリポジトリを自分のアカウントへ `Fork` してください。  
+Codespacesは必ず **Fork先のリポジトリ** で作成します。
+
+1. Fork先リポジトリのGitHubページを開く
 2. `<> Code` ボタンを押す
 3. `Codespaces` タブで `Create codespace on main` をクリック
 4. 起動完了後、ターミナルで以下を実行
